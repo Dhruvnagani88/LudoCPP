@@ -215,14 +215,7 @@ void displayCurrent(char board[SIZE][SIZE], Player players[MAX_PLAYER][4]) {
 
 ---
 
-## 👨‍💻 Author
 
-**Urvish Babariya**
-- 📧 Email: urvishbabariya06@gmail.com
-- 🐙 GitHub: [Urvish2007](https://github.com/Urvish2007)
-- 🔗 LinkedIn: [Urvish Babariya](https://www.linkedin.com/in/urvish-babariya-b38180305)
-
----
 
 ## 🚧 Future Improvements
 - ✅ Add player vs computer mode
